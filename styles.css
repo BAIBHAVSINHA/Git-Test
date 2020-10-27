@@ -82,3 +82,9 @@ body {
   color:#D1C4E9; 
   opacity: 1;
 }
+
+.modal-header 
+{
+  color: floralwhite;
+  background-color: #512DA8;
+}
